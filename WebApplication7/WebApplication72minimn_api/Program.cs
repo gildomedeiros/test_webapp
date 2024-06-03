@@ -17,6 +17,7 @@ if (app.Environment.IsDevelopment())
 }
 //test 22
 //testmanin
+//test777
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
